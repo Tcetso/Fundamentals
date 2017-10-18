@@ -1,0 +1,7 @@
+c:\users\cvetan\Documents\_Programming\Fundamentals\13_ArrayExercise\10_Ballistic\bin\Debug\10_Ballistic.exe.config
+c:\users\cvetan\Documents\_Programming\Fundamentals\13_ArrayExercise\10_Ballistic\bin\Debug\10_Ballistic.exe
+c:\users\cvetan\Documents\_Programming\Fundamentals\13_ArrayExercise\10_Ballistic\bin\Debug\10_Ballistic.pdb
+c:\users\cvetan\Documents\_Programming\Fundamentals\13_ArrayExercise\10_Ballistic\obj\Debug\10_Ballistic.csprojResolveAssemblyReference.cache
+c:\users\cvetan\Documents\_Programming\Fundamentals\13_ArrayExercise\10_Ballistic\obj\Debug\10_Ballistic.csproj.CoreCompileInputs.cache
+c:\users\cvetan\Documents\_Programming\Fundamentals\13_ArrayExercise\10_Ballistic\obj\Debug\10_Ballistic.exe
+c:\users\cvetan\Documents\_Programming\Fundamentals\13_ArrayExercise\10_Ballistic\obj\Debug\10_Ballistic.pdb

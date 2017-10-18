@@ -1,0 +1,7 @@
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\01_EqualString\bin\Debug\01_EqualString.exe.config
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\01_EqualString\bin\Debug\01_EqualString.exe
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\01_EqualString\bin\Debug\01_EqualString.pdb
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\01_EqualString\obj\Debug\01_EqualString.csprojResolveAssemblyReference.cache
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\01_EqualString\obj\Debug\01_EqualString.csproj.CoreCompileInputs.cache
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\01_EqualString\obj\Debug\01_EqualString.exe
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\01_EqualString\obj\Debug\01_EqualString.pdb

@@ -1,0 +1,9 @@
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\bin\Debug\GetMinNum.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\bin\Debug\GetMinNum.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\bin\Debug\GetMinNum.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\bin\Debug\GetMinNum.exe.CodeAnalysisLog.xml
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\bin\Debug\GetMinNum.exe.lastcodeanalysissucceeded
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\obj\Debug\02_GetMin.csprojResolveAssemblyReference.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\obj\Debug\02_GetMin.csproj.CoreCompileInputs.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\obj\Debug\GetMinNum.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\08_Methods\08_Methods\obj\Debug\GetMinNum.pdb

@@ -1,0 +1,6 @@
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\05_CharRotation\bin\Debug\05_CharRotation.exe.config
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\05_CharRotation\bin\Debug\05_CharRotation.exe
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\05_CharRotation\bin\Debug\05_CharRotation.pdb
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\05_CharRotation\obj\Debug\05_CharRotation.csproj.CoreCompileInputs.cache
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\05_CharRotation\obj\Debug\05_CharRotation.exe
+c:\users\cvetan\Documents\_Programming\Fundamentals\14_ArraysMore\05_CharRotation\obj\Debug\05_CharRotation.pdb
