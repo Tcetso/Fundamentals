@@ -1,0 +1,6 @@
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\12Zipper\bin\Debug\12Zipper.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\12Zipper\bin\Debug\12Zipper.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\12Zipper\bin\Debug\12Zipper.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\12Zipper\obj\Debug\12Zipper.csprojResolveAssemblyReference.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\12Zipper\obj\Debug\12Zipper.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\12Zipper\obj\Debug\12Zipper.pdb

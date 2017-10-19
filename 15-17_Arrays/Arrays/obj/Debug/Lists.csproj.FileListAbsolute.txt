@@ -1,0 +1,6 @@
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\obj\Debug\Arrays.pdb
