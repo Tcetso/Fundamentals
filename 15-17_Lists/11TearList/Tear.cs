@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _11TearList
     {
-    class Program
+    class Tear
         {
         static void Main(string[] args)
             {
@@ -16,10 +16,10 @@ namespace _11TearList
             var second = (nums.Count / 2);
             for (int i = 0; i < nums.Count/2; i++)
                 {
-                split.Add(nums[second] / 10);
+                split.Add(nums[i+second] / 10);
                 split.Add(nums[i]);
-                split.Add(nums[second] % 10);
-                second++;
+                split.Add(nums[i+second] % 10);
+                //second++;
                 }
             Console.WriteLine(string.Join(" ", split));
             }

@@ -4,3 +4,10 @@ C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\bin\Debug\Arra
 C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\obj\Debug\01RemoveNegative.csprojResolveAssemblyReference.cache
 C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\Arrays\bin\Debug\Arrays.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\Arrays\obj\Debug\01RemoveNegative.csprojResolveAssemblyReference.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\Arrays\obj\Debug\01RemoveNegative.csproj.CoreCompileInputs.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\Arrays\obj\Debug\Arrays.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\Arrays\obj\Debug\Arrays.pdb

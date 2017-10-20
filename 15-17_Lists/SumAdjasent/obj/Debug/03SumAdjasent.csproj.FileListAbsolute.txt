@@ -1,3 +1,9 @@
 C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SumAdjasent\bin\Debug\SumAdjasent.exe.config
 C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SumAdjasent\obj\Debug\SumAdjasent.exe
 C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SumAdjasent\obj\Debug\SumAdjasent.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\SumAdjasent\bin\Debug\SumAdjasent.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\SumAdjasent\bin\Debug\SumAdjasent.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\SumAdjasent\bin\Debug\SumAdjasent.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\SumAdjasent\obj\Debug\03SumAdjasent.csproj.CoreCompileInputs.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\SumAdjasent\obj\Debug\SumAdjasent.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\15-17_Lists\SumAdjasent\obj\Debug\SumAdjasent.pdb
