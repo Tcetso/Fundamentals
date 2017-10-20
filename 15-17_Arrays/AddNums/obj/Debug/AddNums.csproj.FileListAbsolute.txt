@@ -1,5 +1,0 @@
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\AddNums\bin\Debug\AddNums.exe.config
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\AddNums\bin\Debug\AddNums.exe
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\AddNums\bin\Debug\AddNums.pdb
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\AddNums\obj\Debug\AddNums.exe
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\AddNums\obj\Debug\AddNums.pdb

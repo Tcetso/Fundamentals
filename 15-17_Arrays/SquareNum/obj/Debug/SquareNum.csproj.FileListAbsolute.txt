@@ -1,5 +1,0 @@
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SquareNum\bin\Debug\SquareNum.exe.config
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SquareNum\bin\Debug\SquareNum.exe
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SquareNum\bin\Debug\SquareNum.pdb
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SquareNum\obj\Debug\SquareNum.exe
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SquareNum\obj\Debug\SquareNum.pdb

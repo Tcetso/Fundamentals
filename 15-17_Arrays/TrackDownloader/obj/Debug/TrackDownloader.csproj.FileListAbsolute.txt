@@ -1,6 +1,0 @@
-G:\Programming\Fundamentals\Arrays\TrackDownloader\bin\Debug\TrackDownloader.exe.config
-G:\Programming\Fundamentals\Arrays\TrackDownloader\bin\Debug\TrackDownloader.exe
-G:\Programming\Fundamentals\Arrays\TrackDownloader\bin\Debug\TrackDownloader.pdb
-G:\Programming\Fundamentals\Arrays\TrackDownloader\obj\Debug\TrackDownloader.csprojResolveAssemblyReference.cache
-G:\Programming\Fundamentals\Arrays\TrackDownloader\obj\Debug\TrackDownloader.exe
-G:\Programming\Fundamentals\Arrays\TrackDownloader\obj\Debug\TrackDownloader.pdb

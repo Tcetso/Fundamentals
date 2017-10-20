@@ -1,6 +1,0 @@
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\13WineCraft\bin\Debug\13WineCraft.exe.config
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\13WineCraft\bin\Debug\13WineCraft.exe
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\13WineCraft\bin\Debug\13WineCraft.pdb
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\13WineCraft\obj\Debug\13WineCraft.csprojResolveAssemblyReference.cache
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\13WineCraft\obj\Debug\13WineCraft.exe
-C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\13WineCraft\obj\Debug\13WineCraft.pdb
