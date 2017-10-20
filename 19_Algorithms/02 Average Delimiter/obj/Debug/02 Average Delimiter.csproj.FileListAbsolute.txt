@@ -1,0 +1,12 @@
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Algorithms\02 Average Delimiter\bin\Debug\02 Average Delimiter.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Algorithms\02 Average Delimiter\bin\Debug\02 Average Delimiter.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Algorithms\02 Average Delimiter\bin\Debug\02 Average Delimiter.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Algorithms\02 Average Delimiter\obj\Debug\02 Average Delimiter.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Algorithms\02 Average Delimiter\obj\Debug\02 Average Delimiter.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\02 Average Delimiter\bin\Debug\02 Average Delimiter.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\02 Average Delimiter\bin\Debug\02 Average Delimiter.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\02 Average Delimiter\bin\Debug\02 Average Delimiter.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\02 Average Delimiter\obj\Debug\02 Average Delimiter.csprojResolveAssemblyReference.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\02 Average Delimiter\obj\Debug\02 Average Delimiter.csproj.CoreCompileInputs.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\02 Average Delimiter\obj\Debug\02 Average Delimiter.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\02 Average Delimiter\obj\Debug\02 Average Delimiter.pdb

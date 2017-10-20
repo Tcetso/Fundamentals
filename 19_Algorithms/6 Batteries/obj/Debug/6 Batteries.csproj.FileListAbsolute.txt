@@ -1,0 +1,7 @@
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\6 Batteries\bin\Debug\6 Batteries.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\6 Batteries\bin\Debug\6 Batteries.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\6 Batteries\bin\Debug\6 Batteries.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\6 Batteries\obj\Debug\6 Batteries.csprojResolveAssemblyReference.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\6 Batteries\obj\Debug\6 Batteries.csproj.CoreCompileInputs.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\6 Batteries\obj\Debug\6 Batteries.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\19_Algorithms\6 Batteries\obj\Debug\6 Batteries.pdb
