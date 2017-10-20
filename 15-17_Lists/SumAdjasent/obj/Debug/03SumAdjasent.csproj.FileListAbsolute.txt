@@ -1,0 +1,3 @@
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SumAdjasent\bin\Debug\SumAdjasent.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SumAdjasent\obj\Debug\SumAdjasent.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\Arrays\SumAdjasent\obj\Debug\SumAdjasent.pdb

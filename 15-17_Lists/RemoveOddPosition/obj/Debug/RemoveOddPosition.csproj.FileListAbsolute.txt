@@ -1,0 +1,6 @@
+G:\Programming\Fundamentals\Arrays\RemoveOddPosition\bin\Debug\RemoveOddPosition.exe.config
+G:\Programming\Fundamentals\Arrays\RemoveOddPosition\bin\Debug\RemoveOddPosition.exe
+G:\Programming\Fundamentals\Arrays\RemoveOddPosition\bin\Debug\RemoveOddPosition.pdb
+G:\Programming\Fundamentals\Arrays\RemoveOddPosition\obj\Debug\RemoveOddPosition.csprojResolveAssemblyReference.cache
+G:\Programming\Fundamentals\Arrays\RemoveOddPosition\obj\Debug\RemoveOddPosition.exe
+G:\Programming\Fundamentals\Arrays\RemoveOddPosition\obj\Debug\RemoveOddPosition.pdb
