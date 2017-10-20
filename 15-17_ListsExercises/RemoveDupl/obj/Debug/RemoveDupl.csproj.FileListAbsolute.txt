@@ -1,0 +1,9 @@
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\RemoveDupl\bin\Debug\RemoveDupl.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\RemoveDupl\bin\Debug\RemoveDupl.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\RemoveDupl\bin\Debug\RemoveDupl.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\RemoveDupl\obj\Debug\RemoveDupl.csprojResolveAssemblyReference.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\RemoveDupl\obj\Debug\RemoveDupl.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\RemoveDupl\obj\Debug\RemoveDupl.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals_old\ListsExercises\RemoveDupl\bin\Debug\RemoveDupl.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals_old\ListsExercises\RemoveDupl\obj\Debug\RemoveDupl.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals_old\ListsExercises\RemoveDupl\obj\Debug\RemoveDupl.pdb

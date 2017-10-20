@@ -1,0 +1,6 @@
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\IntegerInsert\bin\Debug\IntegerInsert.exe.config
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\IntegerInsert\bin\Debug\IntegerInsert.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\IntegerInsert\bin\Debug\IntegerInsert.pdb
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\IntegerInsert\obj\Debug\IntegerInsert.csprojResolveAssemblyReference.cache
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\IntegerInsert\obj\Debug\IntegerInsert.exe
+C:\Users\Cvetan\Documents\_Programming\Fundamentals\ListsExercises\IntegerInsert\obj\Debug\IntegerInsert.pdb
