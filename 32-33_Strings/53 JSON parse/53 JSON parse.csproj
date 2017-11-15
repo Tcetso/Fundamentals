@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E30C47EA-5ECC-411E-9896-3381C0CBADA5}</ProjectGuid>
+    <ProjectGuid>{AADBA9A4-12BA-4324-AC1C-FB93D8E1AC43}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0_My_rename</RootNamespace>
-    <AssemblyName>0 My rename</AssemblyName>
+    <RootNamespace>_53_JSON_parse</RootNamespace>
+    <AssemblyName>53 JSON parse</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="myRename.cs" />
+    <Compile Include="parse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E30C47EA-5ECC-411E-9896-3381C0CBADA5}</ProjectGuid>
+    <ProjectGuid>{61F6766C-6D3D-4122-A924-CB9CDE1BD5AA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0_My_rename</RootNamespace>
-    <AssemblyName>0 My rename</AssemblyName>
+    <RootNamespace>_3_Text_Filter</RootNamespace>
+    <AssemblyName>3 Text Filter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="myRename.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E30C47EA-5ECC-411E-9896-3381C0CBADA5}</ProjectGuid>
+    <ProjectGuid>{F8C16BBE-A93F-4CF0-B330-719AA76DC095}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0_My_rename</RootNamespace>
-    <AssemblyName>0 My rename</AssemblyName>
+    <RootNamespace>_52_JSON_stringify</RootNamespace>
+    <AssemblyName>52 JSON stringify</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="myRename.cs" />
+    <Compile Include="stringify.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

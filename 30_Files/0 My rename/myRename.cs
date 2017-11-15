@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 
 namespace _0_My_rename
 	{
-	class Program
+	class myRename
 		{
 		static void Main(string[] args)
 			{

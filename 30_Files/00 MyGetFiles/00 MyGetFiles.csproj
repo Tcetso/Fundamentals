@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E30C47EA-5ECC-411E-9896-3381C0CBADA5}</ProjectGuid>
+    <ProjectGuid>{BCE8E114-2AB2-453D-8BBB-266D9B59A0DE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0_My_rename</RootNamespace>
-    <AssemblyName>0 My rename</AssemblyName>
+    <RootNamespace>_00_MyGetFiles</RootNamespace>
+    <AssemblyName>00 MyGetFiles</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="myRename.cs" />
+    <Compile Include="GetFiles.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
