@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64 Deserialize String", "64
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "65 String Commander", "65 String Commander\65 String Commander.csproj", "{1FB75B34-E177-4F68-9B68-1F79EF9F3289}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66 Stateless", "66 Stateless\66 Stateless.csproj", "{1B63C605-A9E4-40C1-905A-BDA59594CA41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67 Pyramidic", "67 Pyramidic\67 Pyramidic.csproj", "{18146862-06AC-47E8-8D90-7927BBB78EAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{1FB75B34-E177-4F68-9B68-1F79EF9F3289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FB75B34-E177-4F68-9B68-1F79EF9F3289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FB75B34-E177-4F68-9B68-1F79EF9F3289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B63C605-A9E4-40C1-905A-BDA59594CA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B63C605-A9E4-40C1-905A-BDA59594CA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B63C605-A9E4-40C1-905A-BDA59594CA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B63C605-A9E4-40C1-905A-BDA59594CA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18146862-06AC-47E8-8D90-7927BBB78EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18146862-06AC-47E8-8D90-7927BBB78EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18146862-06AC-47E8-8D90-7927BBB78EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18146862-06AC-47E8-8D90-7927BBB78EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
