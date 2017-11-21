@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66 Stateless", "66 Stateles
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67 Pyramidic", "67 Pyramidic\67 Pyramidic.csproj", "{18146862-06AC-47E8-8D90-7927BBB78EAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "68 Nilapdromes", "68 Nilapdromes\68 Nilapdromes.csproj", "{7A2ECA1A-3B5D-4A12-8081-FCB7C35DF55B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{18146862-06AC-47E8-8D90-7927BBB78EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18146862-06AC-47E8-8D90-7927BBB78EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18146862-06AC-47E8-8D90-7927BBB78EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2ECA1A-3B5D-4A12-8081-FCB7C35DF55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2ECA1A-3B5D-4A12-8081-FCB7C35DF55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2ECA1A-3B5D-4A12-8081-FCB7C35DF55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2ECA1A-3B5D-4A12-8081-FCB7C35DF55B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
